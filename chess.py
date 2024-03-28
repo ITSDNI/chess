@@ -609,4 +609,4 @@ while run:
         draw_game_over()
 
     pygame.display.flip()
-pygame.quit()
+
